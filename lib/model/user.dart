@@ -5,4 +5,6 @@ class User {
   late String name;
   late String id;
   late UserLevel user_level;
+  late String phone_number;
+  late String email;
 }
